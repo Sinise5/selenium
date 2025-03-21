@@ -119,8 +119,8 @@ Abstract:xxx
 ### Tested Platform
 - software
   ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
+  OS: MacOS
+  Python: 3.9
   PyTorch: 1.7.1, 1.8.1
   ```
 - hardware
