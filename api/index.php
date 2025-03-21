@@ -6,9 +6,9 @@ error_reporting(E_ALL);
 require 'vendor/autoload.php';
 
 $host = "localhost";
-$dbname = "lintechi_db_whatsapp";
-$username = "lintechi_whatsapp";
-$password = "Whats@pp222";
+$dbname = "";
+$username = "";
+$password = "";
 
 
 try {
