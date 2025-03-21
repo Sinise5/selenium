@@ -1,0 +1,175 @@
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 11:41:53"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 11:41:54"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 11:42:00"}
+{"username": "manningbrandy", "status": "fail", "timestamp": "2025-03-20 11:42:06"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 11:53:09"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 11:53:21"}
+{"username": "chaneynicole", "status": "fail", "timestamp": "2025-03-20 11:53:26"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 11:57:35"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 11:57:43"}
+{"username": "courtneygray", "status": "fail", "timestamp": "2025-03-20 11:57:45"}
+{"username": "plucas", "status": "fail", "timestamp": "2025-03-20 11:57:50"}
+{"username": "alisha69", "status": "fail", "timestamp": "2025-03-20 11:57:57"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:03:21"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:03:29"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:03:30"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:03:39"}
+{"username": "william35", "status": "fail", "timestamp": "2025-03-20 12:03:49"}
+{"username": "michelleray", "status": "fail", "timestamp": "2025-03-20 12:03:55"}
+{"username": "elizabeth56", "status": "fail", "timestamp": "2025-03-20 12:04:01"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:04:50"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:04:55"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:04:57"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:05:02"}
+{"username": "robertsonandrea", "status": "fail", "timestamp": "2025-03-20 12:05:09"}
+{"username": "mclark", "status": "fail", "timestamp": "2025-03-20 12:05:12"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:10:31"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 12:10:31"}
+{"username": "bryanlisa", "status": "fail", "timestamp": "2025-03-20 12:10:41"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:10:42"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:13:16"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 12:13:16"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:13:23"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:13:24"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:13:29"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:13:32"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:13:35"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:15:17"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 12:15:19"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:15:24"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:15:27"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:15:30"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:15:34"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:15:37"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:18:46"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 12:18:48"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:18:53"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:18:55"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:19:00"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:19:02"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:19:07"}
+{"username": "eugeneelliott", "status": "fail", "timestamp": "2025-03-20 12:19:14"}
+{"username": "meganbyrd", "status": "fail", "timestamp": "2025-03-20 12:19:28"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:24:28"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:24:34"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:24:36"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:24:40"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:24:42"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:24:48"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 12:26:47"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:26:49"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:26:53"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:26:56"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:27:00"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:27:02"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:27:06"}
+{"username": "bsilva", "status": "fail", "timestamp": "2025-03-20 12:27:13"}
+{"username": "castanedamatthew", "status": "fail", "timestamp": "2025-03-20 12:27:23"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:31:03"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 12:31:04"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:31:10"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:31:11"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:31:16"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:31:18"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:31:22"}
+{"username": "silver", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:37:46"}
+{"username": "", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:37:48"}
+{"username": "admin", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:37:53"}
+{"username": "admin' OR 1=1 --", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:37:54"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:37:59"}
+{"username": "davisdavid", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:38:01"}
+{"username": "chenjennifer", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:38:08"}
+{"username": "ohoover", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:38:09"}
+{"username": "asingleton", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:38:14"}
+{"username": "evelynstevens", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:38:16"}
+{"username": "", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:06"}
+{"username": "silver", "status": "success", "reason": "", "timestamp": "2025-03-20 12:39:07"}
+{"username": "admin' OR 1=1 --", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:12"}
+{"username": "admin", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:16"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:19"}
+{"username": "mason68", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:23"}
+{"username": "raylisa", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:26"}
+{"username": "charles86", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:29"}
+{"username": "nlawson", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:32"}
+{"username": "miguel77", "status": "fail", "reason": "Login gagal", "timestamp": "2025-03-20 12:39:35"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:40:07"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:40:12"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:40:17"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:40:19"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:40:23"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:40:25"}
+{"username": "ulevy", "status": "fail", "timestamp": "2025-03-20 12:40:36"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:45:52"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:45:59"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:46:00"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:46:06"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:46:06"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:46:13"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:48:02"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:48:07"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:48:09"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:48:14"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:48:15"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:48:20"}
+{"username": "ayalacameron", "status": "fail", "timestamp": "2025-03-20 12:48:26"}
+{"username": "kjones", "status": "fail", "timestamp": "2025-03-20 12:48:35"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 12:49:59"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 12:49:59"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 12:50:06"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 12:50:07"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 12:50:13"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 12:50:15"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 12:50:19"}
+{"username": "michael18", "status": "fail", "timestamp": "2025-03-20 12:50:25"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 13:11:26"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 13:11:33"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 13:11:39"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 13:11:45"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 13:11:52"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 13:11:59"}
+{"username": "evan75", "status": "fail", "timestamp": "2025-03-20 13:12:19"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 13:22:27"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 13:22:29"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 13:22:39"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 13:22:41"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 13:22:54"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 13:22:55"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 13:36:58"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 13:37:05"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 13:37:12"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 13:37:13"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 13:37:23"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 13:37:23"}
+{"username": "jose46", "status": "fail", "timestamp": "2025-03-20 13:37:46"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 13:45:44"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 13:45:46"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 13:45:50"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 13:45:54"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 13:45:57"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 13:46:00"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 13:46:04"}
+{"username": "ldavid", "status": "fail", "timestamp": "2025-03-20 13:46:12"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 13:48:19"}
+{"username": "silver", "status": "success", "timestamp": "2025-03-20 13:48:22"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 13:48:28"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 13:48:29"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 13:48:34"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 13:48:36"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 13:48:47"}
+{"username": "karen30", "status": "fail", "timestamp": "2025-03-20 13:49:01"}
+{"username": "marshstephanie", "status": "fail", "timestamp": "2025-03-20 13:49:11"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 13:50:27"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 13:50:35"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 13:50:37"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 13:50:42"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 13:50:45"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 13:50:49"}
+{"username": "tammy86", "status": "fail", "timestamp": "2025-03-20 13:51:01"}
+{"username": "", "status": "fail", "timestamp": "2025-03-20 13:52:43"}
+{"username": "admin' OR 1=1 --", "status": "fail", "timestamp": "2025-03-20 13:52:58"}
+{"username": "admin", "status": "fail", "timestamp": "2025-03-20 13:53:06"}
+{"username": "<script>alert('XSS')</script>", "status": "fail", "timestamp": "2025-03-20 13:53:07"}
+{"username": "VeryLongUsername1234567890", "status": "fail", "timestamp": "2025-03-20 13:53:15"}
+{"username": "Silver", "status": "fail", "timestamp": "2025-03-20 13:53:16"}
+{"username": "guzmanwhitney", "status": "fail", "timestamp": "2025-03-20 13:53:21"}
+{"username": "laurenjohnson", "status": "fail", "timestamp": "2025-03-20 13:53:35"}

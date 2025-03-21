@@ -1,0 +1,18 @@
+# Abaikan folder virtual environment
+selenium-env/
+allure-results/
+screenshots/
+venv/
+
+# Abaikan file environment variables (keamanan)
+*.env
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan log dan file temporary
+*.log
+*.sqlite3
